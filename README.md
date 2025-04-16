@@ -2,22 +2,25 @@
 	
 # Portfolio Personal
 
-Este proyecto es mi portafolio personal, donde muestro mis habilidades y proyectos como desarrollador Full Stack.
+Este proyecto es mi portafolio personal, donde muestro mis habilidades y proyectos como Full Stack Developer.
 
 ## Descripción
 
 Mi portafolio personal está diseñado para destacar mis habilidades en el desarrollo web y móvil. Utiliza tecnologías modernas como Next.js y Prisma para crear una experiencia de usuario fluida y atractiva.
 
-## Capturas de Pantalla
-
-[Agregar capturas de pantalla o GIFs del portafolio]
-
 ## Tecnologías Utilizadas
 
 * Next.js
+* Tailwind
+* Angular
+* Node.js
+* MySQL
+* Spring Boot
 * Prisma
 * Git
 * Vercel
+* AWS
+* Docker
 
 ## Autor
 
@@ -28,4 +31,4 @@ Emmanuel Jordy Santamaria Cruz
 
 ## Contacto
 
-[Correo](santmjoy@gmail.com)
+[santmjoy@gmail.com](santmjoy@gmail.com)
