@@ -1,4 +1,7 @@
-<h1 align="center">Hola, Soy Jordy Santamaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/24528532?v=4" />
+   <h1 align="center">Hola, Soy Jordy Santamaria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+</p>
 	
 # Portfolio Personal
 
