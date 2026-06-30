@@ -79,10 +79,14 @@ E-commerce platform implementing PostgreSQL Full Text Search for semantic querie
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jordysantamaria94&show_icons=true&theme=visual_studio_code&count_private=true" alt="Jordy's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jordysantamaria94&theme=visual_studio_code&hide_border=true" alt="Jordy's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordysantamaria94&theme=visual_studio_code" alt="Jordy's GitHub Details" />
 </p>
 
 ---
